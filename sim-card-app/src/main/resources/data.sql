@@ -1,0 +1,2 @@
+INSERT INTO SIM_CARD (sim_card_no, mobile_no, status, expiry_date, state_of_registration, kyc, telecom_provider, full_name) VALUES('101', '9876543210', true, TO_DATE('17/09/2022', 'DD/MM/YYYY'), 'Uttar Pradesh', '7373737733', 'airtel', 'raj krishna');
+INSERT INTO SIM_CARD (sim_card_no, mobile_no, status, expiry_date, state_of_registration, kyc, telecom_provider, full_name) VALUES('102', '7876233330', true, TO_DATE('29/08/2022', 'DD/MM/YYYY'), 'Maharashtra', '7373744433', 'jio', 'dheeraj dhawan');
