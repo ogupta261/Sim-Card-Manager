@@ -1,0 +1,39 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/ogupta261/.theia/workspace-storage/1305cde09627d5e4cff4d6a20d2d8729/redhat.java/.401f7c203d0ad85311959461353b24925631b1b0-audit.json",
+    "files": [
+        {
+            "date": 1660554573260,
+            "name": "/home/ogupta261/.theia/workspace-storage/1305cde09627d5e4cff4d6a20d2d8729/redhat.java/client.log.2022-08-15",
+            "hash": "898132a180e8d40fcb9a1bfc47149e64"
+        },
+        {
+            "date": 1660554685728,
+            "name": "/home/ogupta261/.theia/workspace-storage/1305cde09627d5e4cff4d6a20d2d8729/redhat.java/client.log.2022-08-15.1",
+            "hash": "b006067a666e16b22ba7e33337bfaa01"
+        },
+        {
+            "date": 1660555836848,
+            "name": "/home/ogupta261/.theia/workspace-storage/1305cde09627d5e4cff4d6a20d2d8729/redhat.java/client.log.2022-08-15.2",
+            "hash": "f5fa20915215cce4889109474e6af31e"
+        },
+        {
+            "date": 1660556235101,
+            "name": "/home/ogupta261/.theia/workspace-storage/1305cde09627d5e4cff4d6a20d2d8729/redhat.java/client.log.2022-08-15.3",
+            "hash": "3c9f5438607b0f1234f19ff901037fa9"
+        },
+        {
+            "date": 1660556249047,
+            "name": "/home/ogupta261/.theia/workspace-storage/1305cde09627d5e4cff4d6a20d2d8729/redhat.java/client.log.2022-08-15.4",
+            "hash": "c3e27b68a3b65abbce2a561ebeb9affc"
+        },
+        {
+            "date": 1660556395855,
+            "name": "/home/ogupta261/.theia/workspace-storage/1305cde09627d5e4cff4d6a20d2d8729/redhat.java/client.log.2022-08-15.5",
+            "hash": "af6ec20316a37ae3b1738eadcfe54672"
+        }
+    ]
+}

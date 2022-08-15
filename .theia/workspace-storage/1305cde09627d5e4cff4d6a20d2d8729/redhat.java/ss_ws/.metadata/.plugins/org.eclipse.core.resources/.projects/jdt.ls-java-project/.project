@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>jdt.ls-java-project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/com/handler/sim/controller/SimCardController.java</name>
+			<type>1</type>
+			<location>//home/ogupta261/sim-card-app/src/main/java/com/handler/sim/controller/SimCardController.java</location>
+		</link>
+		<link>
+			<name>src/com/handler/sim/mapper/SimCardMapper.java</name>
+			<type>1</type>
+			<location>//home/ogupta261/sim-card-app/src/main/java/com/handler/sim/mapper/SimCardMapper.java</location>
+		</link>
+		<link>
+			<name>src/com/handler/sim/repository/SimCardRepository.java</name>
+			<type>1</type>
+			<location>/home/ogupta261/sim-card-app/src/main/java/com/handler/sim/repository/SimCardRepository.java</location>
+		</link>
+		<link>
+			<name>src/com/handler/sim/service/SimCardService.java</name>
+			<type>1</type>
+			<location>//home/ogupta261/sim-card-app/src/main/java/com/handler/sim/service/SimCardService.java</location>
+		</link>
+		<link>
+			<name>src/com/handler/sim/domain/dto/SimCardDTO.java</name>
+			<type>1</type>
+			<location>//home/ogupta261/sim-card-app/src/main/java/com/handler/sim/domain/dto/SimCardDTO.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>

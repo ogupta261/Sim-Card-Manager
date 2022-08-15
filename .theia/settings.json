@@ -1,0 +1,11 @@
+{
+    "redhat.telemetry.enabled": false,
+    "csharp.suppressDotnetRestoreNotification": true,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
